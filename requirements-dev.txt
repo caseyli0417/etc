@@ -30,8 +30,8 @@ pre-commit==1.21.0
 ptyprocess==0.7.0
 py==1.10.0
 pyasn1==0.4.8
-pycryptodome==3.9.9
-pycryptodomex==3.9.9
+pycryptodome==3.19.1
+pycryptodomex==3.19.1
 pyfakefs==4.3.3
 PyGithub==1.54
 PyJWT==1.7.1
