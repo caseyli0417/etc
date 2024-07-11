@@ -52,4 +52,4 @@ toml==0.10.2
 urllib3==1.25.11
 virtualenv==20.4.0
 wrapt==1.12.1
-zipp==1.2.0
+zipp==3.19.1
